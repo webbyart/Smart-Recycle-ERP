@@ -1,0 +1,6 @@
+{
+  "name": "Smart Recycle ERP",
+  "description": "ระบบบริหารร้านรับซื้อของเก่าและรีไซเคิลครบวงจร ชั่ง ซื้อ ขาย จ่าย เก็บประวัติ ครบ จบในระบบเดียว",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
